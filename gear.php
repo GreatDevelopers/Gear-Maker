@@ -14,9 +14,9 @@ exec('zip gear.zip gear.dxf');
 </head>
 <body>
 <center>
-<table>
-<td><a href = "file.svg" >get svg file here </a></td>
-<td><a href = "gear.zip" >get dxf here  </a></td>
+<table border = 1>
+<tr><td>SVG Format File</td><td><a href = "file.svg" >Download</a></td></tr>
+<tr><td>DXF Format File(Zipped file)</td><td><a href = "gear.zip" >Download</a></td></tr>
 </center>
 </table>
 </body>
